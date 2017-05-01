@@ -1,5 +1,5 @@
-baseurl = "https://example.com"
-title = "Academic"
+baseurl = "http:/hakyimlab.org/test-site/"
+title = "Im-Lab"
 copyright = "&copy; 2017 Hae Kyung Im"
 theme = "hugo-academic"
 enableEmoji = true
