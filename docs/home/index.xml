@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Im-Lab</title>
-    <link>/home/</link>
-    <description>Recent content in Homes on Im-Lab</description>
+    <title>Homes on TEST-SITE</title>
+    <link>https://hakyim.github.io/home/</link>
+    <description>Recent content in Homes on TEST-SITE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Hae Kyung Im</copyright>
