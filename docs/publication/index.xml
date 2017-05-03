@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on TEST-SITE</title>
-    <link>https://hakyim.github.io/publication/</link>
+    <link>https://hakyim.github.io/test-site/publication/</link>
     <description>Recent content in Publications on TEST-SITE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Hae Kyung Im</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <atom:link href="/test-site/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A gene-based association method for mapping traits using reference transcriptome data</title>
-      <link>https://hakyim.github.io/publication/predixcan/</link>
+      <link>https://hakyim.github.io/test-site/publication/predixcan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hakyim.github.io/publication/predixcan/</guid>
+      <guid>https://hakyim.github.io/test-site/publication/predixcan/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 
 &lt;!-- abstract = &#34;Genome-wide association studies (GWAS) have identified thousands of variants robustly associated with complex traits. However, the biological mechanisms underlying these associations are, in general, not well understood. We propose a gene-based association method called PrediXcan that directly tests the molecular mechanisms through which genetic variation affects phenotype. The approach estimates the component of gene expression determined by an individual&#39;s genetic profile and correlates &#39;imputed&#39; gene expression with the phenotype under investigation to identify genes involved in the etiology of the phenotype. Genetically regulated gene expression is estimated using whole-genome tissue-dependent prediction models trained with reference transcriptome data sets. PrediXcan enjoys the benefits of gene-based approaches such as reduced multiple-testing burden and a principled approach to the design of follow-up experiments. Our results demonstrate that PrediXcan can detect known and new genes associated with disease traits and provide insights into the mechanism of these associations.&#34;
