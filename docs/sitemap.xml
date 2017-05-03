@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/tags/academic/</loc>
+      <loc>http://hakyim.github.io/test-site/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/post/</loc>
+      <loc>http://hakyim.github.io/test-site/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/publication/</loc>
+      <loc>http://hakyim.github.io/test-site/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/talk/</loc>
+      <loc>http://hakyim.github.io/test-site/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/post/getting-started/</loc>
+      <loc>http://hakyim.github.io/test-site/post/getting-started/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +50,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/post/widgets/</loc>
+      <loc>http://hakyim.github.io/test-site/post/widgets/</loc>
       <lastmod>2016-04-20T11:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +59,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/post/managing-content/</loc>
+      <loc>http://hakyim.github.io/test-site/post/managing-content/</loc>
       <lastmod>2016-04-20T11:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/post/writing-markdown-latex/</loc>
+      <loc>http://hakyim.github.io/test-site/post/writing-markdown-latex/</loc>
       <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>http://hakyim.github.io/test-site/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -86,7 +86,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/post/migrate-from-jekyll/</loc>
+      <loc>http://hakyim.github.io/test-site/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/publication_types/1/</loc>
+      <loc>http://hakyim.github.io/test-site/publication_types/1/</loc>
       <priority>0</priority>
     </url>
     
@@ -104,7 +104,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/publication/predixcan/</loc>
+      <loc>http://hakyim.github.io/test-site/publication/predixcan/</loc>
     </url>
     
   
@@ -112,7 +112,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/categories/</loc>
+      <loc>http://hakyim.github.io/test-site/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -121,7 +121,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/tags/hugo/</loc>
+      <loc>http://hakyim.github.io/test-site/tags/hugo/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -131,7 +131,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/tags/jekyll/</loc>
+      <loc>http://hakyim.github.io/test-site/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -141,7 +141,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/tags/plot/</loc>
+      <loc>http://hakyim.github.io/test-site/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -151,7 +151,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/publication_types/</loc>
+      <loc>http://hakyim.github.io/test-site/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -160,7 +160,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/categories/r/</loc>
+      <loc>http://hakyim.github.io/test-site/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -170,7 +170,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/tags/r-markdown/</loc>
+      <loc>http://hakyim.github.io/test-site/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -180,7 +180,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/tags/regression/</loc>
+      <loc>http://hakyim.github.io/test-site/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -190,7 +190,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/</loc>
+      <loc>http://hakyim.github.io/test-site/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -200,7 +200,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/tags/</loc>
+      <loc>http://hakyim.github.io/test-site/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

@@ -1,4 +1,4 @@
-baseurl = "https://hakyim.github.io/test-site/"
+baseurl = "http://hakyim.github.io/test-site/"
 title = "TEST-SITE"
 copyright = "&copy; 2017 Hae Kyung Im"
 theme = "hugo-academic"
