@@ -1,4 +1,4 @@
-baseurl = "http:/example.org/"
+baseurl = "“https://hakyim.github.io/”"
 title = "Im-Lab"
 copyright = "&copy; 2017 Hae Kyung Im"
 theme = "hugo-academic"
