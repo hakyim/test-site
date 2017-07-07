@@ -1,5 +1,5 @@
 baseurl = "https://hakyim.github.io/test-site/"
-title = "TEST-SITE"
+title = "IM-LAB"
 copyright = "&copy; 2017 Hae Kyung Im"
 theme = "hugo-academic"
 enableEmoji = true
@@ -151,23 +151,28 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
-  weight = 1
+  url = "#home"
+  weight = 10
+
+[[menu.main]]
+  name = "News"
+  url = "#posts"
+  weight = 20
 
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 30
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+  name = "Talks"
+  url = "#talks"
+  weight = 40
 
 [[menu.main]]
-  name = "Projects"
+  name = "Software"
   url = "#projects"
-  weight = 4
+  weight = 50
 
 # [[menu.main]]
 #   name = "Teaching"
@@ -175,9 +180,19 @@ defaultContentLanguageInSubdir = false
 #   weight = 5
 
 [[menu.main]]
+  name = "Lab-Members"
+  url = "#lab_members"
+  weight = 60
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 70
+
+[[menu.main]]
+  name = "HKI-Bio"
+  url = "#about"
+  weight = 80
 
 # Taxonomies.
 [taxonomies]

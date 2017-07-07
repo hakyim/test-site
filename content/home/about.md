@@ -7,7 +7,7 @@ draft = false
 widget = "about"
 
 # Order that this section will appear in.
-weight = 1
+weight = 80
 
 # List your academic interests.
 [interests]
@@ -38,4 +38,4 @@ weight = 1
 
 # Biography
 
-Hae Kyung Im leads a genomic data science laboratory in the Section of Genetic Medicine at the University of Chicago. The lab develops computational and statistical methods to sift through large amounts of genomic and other high dimensional data with the goal of making discoveries that can be translated to improve human health.
+Hae Kyung Im is a statistician who is passionate about using quantitative and computational methods to uncover hidden patterns in data, which can be translated to benefit people. After trying out physics, manufacturing, information security, and finance, she found a home in academia in the intersection of statistics, genomics, medicine, and big data analytics.
