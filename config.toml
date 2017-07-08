@@ -180,8 +180,8 @@ defaultContentLanguageInSubdir = false
 #   weight = 5
 
 [[menu.main]]
-  name = "Lab-Members"
-  url = "#lab_members"
+  name = "People"
+  url = "#people"
   weight = 60
 
 [[menu.main]]
@@ -189,10 +189,10 @@ defaultContentLanguageInSubdir = false
   url = "#contact"
   weight = 70
 
-[[menu.main]]
-  name = "HKI-Bio"
-  url = "#about"
-  weight = 80
+# [[menu.main]]
+#   name = "HKI-Bio"
+#   url = "#about"
+#   weight = 80
 
 # Taxonomies.
 [taxonomies]

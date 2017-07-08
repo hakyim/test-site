@@ -4,6 +4,7 @@ highlight = true
 math = false
 tags = []
 title = "Dinner with Nancy at the GTEx meeting"
+author = "Haky"
 
 [header]
   caption = ""
@@ -11,4 +12,4 @@ title = "Dinner with Nancy at the GTEx meeting"
 
 +++
 
-After the last formal GTEx analysis working group's internal meeting at Rockville, MD, the Im Lab went for dinner with Nancy Cox, Barbara Stranger, andm Eric Gamazon. From left to right: Rodrigo, Milton, Jiamao, Barbara, Nancy, Eric, Haky, Scott, and Alvaro. Great French dishes with Asian influence.
+After the last formal GTEx analysis working group's internal meeting at Rockville, MD, the Im Lab went for dinner with Nancy Cox, Barbara Stranger, and Eric Gamazon. From left to right: Rodrigo, Milton, Jiamao, Barbara, Nancy, Eric, Haky, Scott, and Alvaro. Great French dishes with Asian influence.
