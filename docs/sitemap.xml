@@ -5,6 +5,60 @@
     
     <url>
     
+      <loc>https://hakyim.github.io/test-site/talk/2017-gcd-iges-joint/</loc>
+      <lastmod>2017-09-09T20:05:28-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hakyim.github.io/test-site/talk/2017-jsm/</loc>
+      <lastmod>2017-07-30T16:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hakyim.github.io/test-site/post/2017-06-dinner-nancy/</loc>
+      <lastmod>2017-06-27T17:05:51-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hakyim.github.io/test-site/talk/2017-06-26-gtex/</loc>
+      <lastmod>2017-06-26T16:50:20-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hakyim.github.io/test-site/talk/2017-06-09-sages/</loc>
+      <lastmod>2017-06-09T16:38:53-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hakyim.github.io/test-site/talk/2017-06-08-gsk/</loc>
+      <lastmod>2017-06-08T16:38:53-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://hakyim.github.io/test-site/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -34,6 +88,24 @@
     
       <loc>https://hakyim.github.io/test-site/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hakyim.github.io/test-site/project/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hakyim.github.io/test-site/project/example-external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -77,15 +149,6 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://hakyim.github.io/test-site/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     </url>
@@ -121,8 +184,38 @@
     
     <url>
     
+      <loc>https://hakyim.github.io/test-site/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hakyim.github.io/test-site/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://hakyim.github.io/test-site/tags/hugo/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hakyim.github.io/test-site/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -141,8 +234,8 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>https://hakyim.github.io/test-site/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -152,46 +245,6 @@
     <url>
     
       <loc>https://hakyim.github.io/test-site/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://hakyim.github.io/test-site/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://hakyim.github.io/test-site/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://hakyim.github.io/test-site/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://hakyim.github.io/test-site/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
