@@ -21,24 +21,6 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://hakyim.github.io/test-site/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://hakyim.github.io/test-site/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://hakyim.github.io/test-site/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://hakyim.github.io/test-site/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hugo</title>
       <link>https://hakyim.github.io/test-site/tags/hugo/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
@@ -53,6 +35,15 @@
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://hakyim.github.io/test-site/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predixcan</title>
+      <link>https://hakyim.github.io/test-site/tags/predixcan/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hakyim.github.io/test-site/tags/predixcan/</guid>
       <description></description>
     </item>
     
