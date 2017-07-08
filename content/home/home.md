@@ -14,4 +14,4 @@ weight = 10
 
 +++
 
-We develop quantitative and computational methods and tools to sift through the vast amounts of genomic data with the goal of making discoveries that can be translated to improve human health.
+We develop quantitative and computational methods and tools to sift through the vast amounts of genomic and other high dimensional data with the goal of making discoveries that can be translated to improve human health.
