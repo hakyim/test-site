@@ -211,6 +211,16 @@
     
     <url>
     
+      <loc>https://hakyim.github.io/test-site/tags/gtex/</loc>
+      <lastmod>2017-06-27T17:05:51-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://hakyim.github.io/test-site/tags/hugo/</loc>
       <lastmod>2016-04-20T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -233,6 +243,16 @@
     
       <loc>https://hakyim.github.io/test-site/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hakyim.github.io/test-site/tags/nancy/</loc>
+      <lastmod>2017-06-27T17:05:51-05:00</lastmod>
       <priority>0</priority>
     </url>
     

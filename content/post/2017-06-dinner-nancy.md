@@ -2,7 +2,7 @@
 date = "2017-06-27T17:05:51-05:00"
 highlight = true
 math = false
-tags = []
+tags = ["GTEx","Nancy"]
 title = "Dinner with Nancy at the GTEx meeting"
 author = "Haky"
 
