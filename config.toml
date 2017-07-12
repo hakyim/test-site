@@ -159,10 +159,10 @@ defaultContentLanguageInSubdir = false
   url = "#posts"
   weight = 20
 
-[[menu.main]]
-  name = "Research"
-  url = "#research"
-  weight = 20
+# [[menu.main]]
+#   name = "Research"
+#   url = "#research"
+#   weight = 20
 
 [[menu.main]]
   name = "Publications"
