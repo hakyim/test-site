@@ -4,3 +4,7 @@ This is the content and resulting htm files for the Im Lab webpage [hakyimlab li
 
 
 # 
+How to edit webpage
+- edit content (post, project, talk) [tutorial](https://sourcethemes.com/academic/post/getting-started/)
+- build static pages (run hugo in the terminal)
+- git add/commit/push
