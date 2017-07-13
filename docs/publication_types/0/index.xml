@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on IM-LAB (BETA)</title>
+    <link>https://hakyim.github.io/test-site/publication_types/0/</link>
+    <description>Recent content in 0 on IM-LAB (BETA)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Hae Kyung Im</copyright>
+    <lastBuildDate>Thu, 13 Jul 2017 15:11:54 -0500</lastBuildDate>
+    <atom:link href="/test-site/publication_types/0/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Scholar List</title>
+      <link>https://hakyim.github.io/test-site/publication/google-scholar/</link>
+      <pubDate>Thu, 13 Jul 2017 15:11:54 -0500</pubDate>
+      
+      <guid>https://hakyim.github.io/test-site/publication/google-scholar/</guid>
+      <description>&lt;p&gt;Check &lt;a href=&#34;https://scholar.google.com/citations?user=1QD4sIcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Google Scholar List&lt;/a&gt; while we prepare publication page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>survey genex architecture</title>
+      <link>https://hakyim.github.io/test-site/publication/survey-genex-architecture/</link>
+      <pubDate>Thu, 13 Jul 2017 15:06:36 -0500</pubDate>
+      
+      <guid>https://hakyim.github.io/test-site/publication/survey-genex-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omickriging</title>
+      <link>https://hakyim.github.io/test-site/publication/omickriging/</link>
+      <pubDate>Mon, 13 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hakyim.github.io/test-site/publication/omickriging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

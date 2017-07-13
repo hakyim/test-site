@@ -29,6 +29,25 @@
     </item>
     
     <item>
+      <title>Google Scholar List</title>
+      <link>https://hakyim.github.io/test-site/publication/google-scholar/</link>
+      <pubDate>Thu, 13 Jul 2017 15:11:54 -0500</pubDate>
+      
+      <guid>https://hakyim.github.io/test-site/publication/google-scholar/</guid>
+      <description>&lt;p&gt;Check &lt;a href=&#34;https://scholar.google.com/citations?user=1QD4sIcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Google Scholar List&lt;/a&gt; while we prepare publication page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>survey genex architecture</title>
+      <link>https://hakyim.github.io/test-site/publication/survey-genex-architecture/</link>
+      <pubDate>Thu, 13 Jul 2017 15:06:36 -0500</pubDate>
+      
+      <guid>https://hakyim.github.io/test-site/publication/survey-genex-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>predixcan</title>
       <link>https://hakyim.github.io/test-site/project/predixcan/</link>
       <pubDate>Sat, 08 Jul 2017 15:37:04 -0500</pubDate>
@@ -107,6 +126,15 @@
       <pubDate>Wed, 08 Jul 2015 16:04:57 -0500</pubDate>
       
       <guid>https://hakyim.github.io/test-site/project/omickriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omickriging</title>
+      <link>https://hakyim.github.io/test-site/publication/omickriging/</link>
+      <pubDate>Mon, 13 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hakyim.github.io/test-site/publication/omickriging/</guid>
       <description></description>
     </item>
     
