@@ -5,7 +5,25 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/talk/2017-gcd-iges-joint/</loc>
+      <loc>https://hakyim.github.io/test-site/talk/2017-10-19-ashg/</loc>
+      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hakyim.github.io/test-site/talk/2017-10-13-wcpg/</loc>
+      <lastmod>2017-10-13T18:51:23-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hakyim.github.io/test-site/talk/2017-09-08-gcd-iges-joint/</loc>
       <lastmod>2017-09-09T20:05:28-05:00</lastmod>
     </url>
     
@@ -14,7 +32,7 @@
     
     <url>
     
-      <loc>https://hakyim.github.io/test-site/talk/2017-jsm/</loc>
+      <loc>https://hakyim.github.io/test-site/talk/2017-07-20-jsm/</loc>
       <lastmod>2017-07-30T16:00:00-05:00</lastmod>
     </url>
     
@@ -113,6 +131,15 @@
     
     <url>
     
+      <loc>https://hakyim.github.io/test-site/talk/2017-03-26-birs/</loc>
+      <lastmod>2017-03-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://hakyim.github.io/test-site/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -149,6 +176,15 @@
     
     <url>
     
+      <loc>https://hakyim.github.io/test-site/publication/predixcan/</loc>
+      <lastmod>2015-08-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://hakyim.github.io/test-site/project/omickriging/</loc>
       <lastmod>2015-07-08T16:04:57-05:00</lastmod>
     </url>
@@ -167,6 +203,24 @@
     
     <url>
     
+      <loc>https://hakyim.github.io/test-site/publication/genomic-privacy/</loc>
+      <lastmod>2012-03-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://hakyim.github.io/test-site/publication/igrowth/</loc>
+      <lastmod>2012-02-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://hakyim.github.io/test-site/publication_types/0/</loc>
       <lastmod>2017-07-13T15:11:54-05:00</lastmod>
       <priority>0</priority>
@@ -178,15 +232,8 @@
     <url>
     
       <loc>https://hakyim.github.io/test-site/publication_types/1/</loc>
+      <lastmod>2015-08-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://hakyim.github.io/test-site/publication/predixcan/</loc>
     </url>
     
   

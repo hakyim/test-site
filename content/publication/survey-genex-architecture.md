@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = [""]
+authors = ["Wheeler, Heather E and Shah, Kaanan P and Brenner, Jonathon and Garcia, Tzintzuni and Aquino-Michaels, Keston and {GTEx Consortium} and Cox, Nancy J and Nicolae, Dan L and Im, Hae Kyung"]
 date = "2017-07-13T15:06:36-05:00"
 highlight = true
 image_preview = ""
@@ -10,7 +10,7 @@ publication = ""
 publication_short = ""
 publication_types = ["0"]
 selected = false
-title = "survey genex architecture"
+title = "Survey of the Heritability and Sparse Architecture of Gene Expression Traits across Human Tissues"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
@@ -23,4 +23,3 @@ url_video = ""
   image = ""
 
 +++
-

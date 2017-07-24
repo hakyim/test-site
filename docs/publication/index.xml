@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>survey genex architecture</title>
+      <title>Survey of the Heritability and Sparse Architecture of Gene Expression Traits across Human Tissues</title>
       <link>https://hakyim.github.io/test-site/publication/survey-genex-architecture/</link>
       <pubDate>Thu, 13 Jul 2017 15:06:36 -0500</pubDate>
       
@@ -30,18 +30,9 @@
     </item>
     
     <item>
-      <title>omickriging</title>
-      <link>https://hakyim.github.io/test-site/publication/omickriging/</link>
-      <pubDate>Mon, 13 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://hakyim.github.io/test-site/publication/omickriging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A gene-based association method for mapping traits using reference transcriptome data</title>
       <link>https://hakyim.github.io/test-site/publication/predixcan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>https://hakyim.github.io/test-site/publication/predixcan/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -66,6 +57,33 @@ url_video = &#34;&#34;
 itle =
 year = &#34;2015&#34; --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Poly-Omic Prediction of Complex Traits: OmicKriging</title>
+      <link>https://hakyim.github.io/test-site/publication/omickriging/</link>
+      <pubDate>Mon, 13 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hakyim.github.io/test-site/publication/omickriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On sharing quantitative trait GWAS results in an era of multiple-omics data and the limits of genomic privacy</title>
+      <link>https://hakyim.github.io/test-site/publication/genomic-privacy/</link>
+      <pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hakyim.github.io/test-site/publication/genomic-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed effects modeling of proliferation rates in cell-based models: consequence for pharmacogenomics and cancer</title>
+      <link>https://hakyim.github.io/test-site/publication/igrowth/</link>
+      <pubDate>Mon, 27 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hakyim.github.io/test-site/publication/igrowth/</guid>
+      <description></description>
     </item>
     
   </channel>
