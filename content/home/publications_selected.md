@@ -4,7 +4,7 @@
 # with `selected = true` in their `+++` preamble.
 
 date = "2016-04-20T00:00:00"
-draft = false
+draft = true
 
 title = "Selected Publications"
 subtitle = ""
@@ -17,4 +17,3 @@ weight = 30
 detailed_list = true
 
 +++
-
